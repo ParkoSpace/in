@@ -53,7 +53,6 @@ files/
         logo.png          Brand logo
     templates/
         index.html        Single HTML shell, loads app.js
-    parkospace.db         SQLite database (auto-created on first run)
 ```
 
 ---
